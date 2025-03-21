@@ -24,10 +24,9 @@
 
 ## 🚀 Sobre Mim
 
-Olá! Sou um **Desenvolvedora Full Stack & QA** especializada em criar **soluções web de alta performance** utilizando **PHP 8.4**. Minha experiência abrange desde a construção de **frameworks MVC próprios** até a **implementação de soluções seguras e escaláveis**, sempre com foco em **alta performance**, **arquitetura limpa** e **automação de testes**.
+Olá! Sou uma **Desenvolvedora Full Stack & QA** especializada em criar **soluções web de alta performance** utilizando **PHP 8.4**. Minha experiência abrange desde a construção de **frameworks MVC próprios** até a **implementação de soluções seguras e escaláveis**, sempre com foco em **alta performance**, **arquitetura limpa** e **automação de testes**.
 
 ### 💡 Princípios de Desenvolvimento
-
 - 🔒 **Segurança**: Autenticação segura, Prepared Statements, tratamento de erros com exceções.
 - 📂 **Estruturas de Código**: Arquitetura de baixo acoplamento, coesão elevada, e injeção de dependência.
 - 💡 **Boas Práticas**: Código limpo, tipagem forte e simplificação de estruturas de pastas.
@@ -40,7 +39,7 @@ Olá! Sou um **Desenvolvedora Full Stack & QA** especializada em criar **soluç�
 - **MariaDB** 💾
 - **jQuery** ✨
 - **Bootstrap** 📱
-- **Composer v2** ⚙️
+- **Composer v2** ⚙️  
 
 #### **Qualidade & Automação**
 - **Cypress** 🧪 para testes automatizados
@@ -52,43 +51,35 @@ Olá! Sou um **Desenvolvedora Full Stack & QA** especializada em criar **soluç�
 - **Portainer** (Gerenciamento de containers) 📦
 - **Traefik** (Roteamento e Proxy Reverso) 🔀
 
-<p align="left">
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="45" height="45" alt="PHP" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="45" height="45" alt="Docker" />
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="45" height="45" alt="MariaDB" />
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="45" height="45" alt="jQuery" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="45" height="45" alt="Bootstrap" />
-  </a>
-</p>
-
 ---
+
 ## 📊 Estatísticas do GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devnayaravieira&theme=dracula&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
-
-## 🏆 **Projetos Destacados**
-
-### 🚧 **Características Principais**
-- **Frameworks MVC personalizados** para garantir escalabilidade e manutenção facilitada.
-- **Foco em performance** com otimizações avançadas para garantir rapidez e eficiência.
-- **Segurança** como prioridade, com implementação de boas práticas de criptografia e autenticação.
-- **Arquitetura limpa** com baixo acoplamento e alta coesão, tornando o código fácil de entender e manter.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnayaravieira&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
-## 📫 Contato
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayaranunesvieira)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayvieira_@hotmail.com.com)
+## 🏆 **Projetos Destacados**
+- [Portfólio Profissional](https://github.com/DevNayaraVieira/portfolio)  
+  Portfólio pessoal desenvolvido com PHP 8.4, jQuery, Bootstrap 5 e MariaDB.  
+  **Tecnologias**: PHP 8.4, MariaDB, Bootstrap 5, jQuery, Docker.
+  - **Descrição**: Este portfólio exibe minhas habilidades em desenvolvimento web com foco em performance, design responsivo e otimização para acessibilidade.
+- [Framework MVC](https://github.com/DevNayaraVieira/framework-mvc)  
+  Um framework MVC personalizado desenvolvido com PHP 8.4, focado em performance e escalabilidade.
+- [Automação de Testes com Cypress](https://github.com/DevNayaraVieira/automacao-cypress)  
+  Suíte de testes end-to-end utilizando Cypress para garantir a qualidade do código.
+- [Aplicação CRUD Completa](https://github.com/DevNayaraVieira/aplicacao-crud)  
+  Sistema completo para gerenciamento de dados com funcionalidades CRUD (Create, Read, Update, Delete).
+- [API RESTful com PHP e MySQL](https://github.com/DevNayaraVieira/api-restful)  
+  API desenvolvida com PHP, implementando CRUDs de usuários, com autenticação via JWT.
+- [E-commerce](https://github.com/DevNayaraVieira/e-commerce)  
+  Sistema de e-commerce com carrinho de compras, pagamentos simulados e gerenciamento de produtos.
+
+## 📫 **Contato**
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayaranunesvieira)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayvieira_@hotmail.com.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5515996855425)
-### Frase de Código
 
+### **Frase de Código**
 *"Código limpo é mais do que funcionar. É sobre criar arte com lógica."*
