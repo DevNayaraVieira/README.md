@@ -1,5 +1,5 @@
 <div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="ChatGPT Image 29 de mar. de 2025, 14_43_05.png"/>
+  <img align="center" alt="Pixel-Art" width="1000px" src="ChatGPT Image 29 de mar. de 2025, 15_14_55.png"/>
 </div>
 
 <div align="right">
